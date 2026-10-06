@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Pocket Goblin</title>
+        <link>https://raw.githubusercontent.com/sqwark-industries/pocketgoblin-releases/main/appcast.xml</link>
+        <description>Updates for Pocket Goblin, the Wealth Goblin budget.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Tue, 06 Oct 2026 04:58:43 GMT</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <p>The first Pocket Goblin for the Mac: the Wealth Goblin budget, living in your menu bar. Free, with no account.</p>
+                <ul>
+                <li>One pot of spending money for the week, shaped like a real week, so weekends get more.</li>
+                <li>Come in under today and the difference is paid forward to the days left, as an exact amount per day.</li>
+                <li>Log a spend from anywhere with a shortcut: type `180 coffee` and press Return.</li>
+                <li>An evening nudge to close the day, if you want one.</li>
+                <li>Pounds, dollars or baht, one currency per budget.</li>
+                <li>Updates arrive here. Settings has a Check for updates button, and nothing installs until you say so.</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/sqwark-industries/pocketgoblin-releases/releases/download/v1.0.0/PocketGoblin-1.0.0.dmg"
+                sparkle:edSignature="j6S9BKqtZA6BVPw0UEmx8HoL9DaJh2EEkUU2ua4Rgfl02R89MGTSW9HeUgnllUyMreSziTcwQ44LA5zMUNRrBg=="
+                length="3725012"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
